@@ -1,4 +1,4 @@
-# Machine-Learning-Seminar
+# **Machine Learning study**
 
 
 * 교재 : Hands on Machine Learning 
